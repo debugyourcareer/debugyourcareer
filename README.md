@@ -40,18 +40,7 @@
   <img src="https://img.shields.io/badge/ChromeDriver-Automation-green?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </p>
 
----
-
-### 📊 Testing Expertise
-```text
-✔ Manual Testing
-✔ Automation Testing
-✔ Web Application Testing
-✔ End-to-End Testing
-✔ Backend Data Validation
-✔ Test Scenario Design
-✔ Defect Reporting & Tracking
-
+----
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=debugyourcareer&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=debugyourcareer&theme=dark&hide_border=false)<br/>
